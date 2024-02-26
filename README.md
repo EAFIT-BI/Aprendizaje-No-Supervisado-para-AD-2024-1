@@ -26,3 +26,16 @@ Repositorio para el material del curso de aprendizaje no supervisado.
     * [Notebook](/Clase04/Clase%204%20aprendizaje%20no%20supervisado.ipynb)
 
     * Fuente de datos [kaggle](https://www.kaggle.com/datasets/imakash3011/customer-personality-analysis).
+
+- [Clase 5](/Clase05/): El objetivo de esta clase es entender el algoritmo de k-means en dos dimensiones, además se aplicara un problema de segmentación con datos geo-espaciales de accidentes en Medellín, para encontrar centroides clave para ubicar ambulacias. 
+    
+    * [Notebook](/Clase05/Kmeans.ipynb)
+    
+    * [Visualización](/Clase05/Visualización%20k-means.ipynb)   
+
+- [Clase 6](/Clase06/) 
+
+    * [Notebook](/Clase06/DBSCAN.ipynb)
+
+    * [Datos](https://www.kaggle.com/datasets/imakash3011/customer-personality-analysis)
+
