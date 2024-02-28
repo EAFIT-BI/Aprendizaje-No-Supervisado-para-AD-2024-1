@@ -33,9 +33,9 @@ Repositorio para el material del curso de aprendizaje no supervisado.
     
     * [Visualización](/Clase05/Visualización%20k-means.ipynb)   
 
-- [Clase 6](/Clase06/) 
+- [Clase 6](/Clase06/): El objetivo de esta clase es entender el algoritmo de DBSCAN, además se aplicara un problema de segmentación con datos sobre consumidores de una empresa, para encontrar insight e implementar estrategias para una población especifica en los datos. Por otro lado, comporar los resultados con k-means. 
 
     * [Notebook](/Clase06/DBSCAN.ipynb)
 
-    * [Datos](https://www.kaggle.com/datasets/imakash3011/customer-personality-analysis)
+    * [Fuente de datos](https://www.kaggle.com/datasets/imakash3011/customer-personality-analysis)
 
