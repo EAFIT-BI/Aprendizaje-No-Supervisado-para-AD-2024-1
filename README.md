@@ -39,3 +39,19 @@ Repositorio para el material del curso de aprendizaje no supervisado.
 
     * [Fuente de datos](https://www.kaggle.com/datasets/imakash3011/customer-personality-analysis)
 
+- [Clase 7](/Clase07/): El objetivo de esta clase es entender el algoritmo jerárquico, se debe desarrollar una actividad con datos de tarjetas de crédito, se quiere realizar la siguiente actividad:
+
+    * Se quiere realizar una segmentación de clientes para definir estrategias de marketing, para este proyecto se tiene información del manejo de las tarjetas de crédito en el periodo de los últimos 6 meses. [Fuente de datos](https://www.kaggle.com/datasets/arjunbhasin2013/ccdata)
+
+        - Lectura de datos.
+        - Limpieza de datos.
+        - Clustering jerárquico.
+            - Estandarización.
+            - Dendograma.
+            - Número de clustering.
+        - ¿Qué tienen en particular cada clúster?
+        - ¿Qué pasa con k-means?
+        - ¿Qué pasa con DB-SCAN?
+
+
+    * [Notebook](/Clase07/HC.ipynb)
