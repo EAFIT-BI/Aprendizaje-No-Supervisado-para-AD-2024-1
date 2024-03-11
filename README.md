@@ -63,7 +63,7 @@ Repositorio para el material del curso de aprendizaje no supervisado.
     
     En el mercado inmobiliario de Nueva York, la diversidad de propiedades disponibles presenta un desafío para los agentes inmobiliarios al momento de especializarse y maximizar sus ventas. La venta de una casa costosa con pocas habitaciones difiere significativamente de una casa económica con múltiples habitaciones, lo que resalta la importancia de la especialización. A través de la creación de segmentos de casas basados en características clave como precio, tamaño, número de habitaciones y ubicación, se busca asignar a los agentes inmobiliarios a segmentos específicos que se alineen con sus habilidades y conocimientos, optimizando así sus esfuerzos de venta y potenciando su éxito en un mercado tan diverso y competitivo como el de Nueva York.
 
-    - [Fuente de datos](https://www.kaggle.com/datasets/hassaneskikri/online-retail-customer-churn-dataset/data)
+    - [Fuente de datos](https://www.kaggle.com/datasets/nelgiriyewithana/new-york-housing-market)
 
     Se debe realizar los siguientes puntos:
 
@@ -75,4 +75,6 @@ Repositorio para el material del curso de aprendizaje no supervisado.
 
     * Realice 4 métodos de clúster.
 
-    * Interprete los resultados. 
+    * Interprete los resultados.
+
+    * Con que modelo se queda y ¿por qué? 
