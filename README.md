@@ -55,3 +55,24 @@ Repositorio para el material del curso de aprendizaje no supervisado.
 
 
     * [Notebook](/Clase07/HC.ipynb)
+
+
+- [Clase 8](/Clase08/) El objetivo de esta clase es realizar un taller que es preparatorio para el parcial. Para el desarrollo del taller vamos a considerar el siguiente caso de negocio.
+
+    * Con la creciente competencia en el mercado inmobiliario de Nueva York, es fundamental para las empresas del sector identificar oportunidades de mercado y mejorar sus estrategias comerciales.
+    
+    En el mercado inmobiliario de Nueva York, la diversidad de propiedades disponibles presenta un desafío para los agentes inmobiliarios al momento de especializarse y maximizar sus ventas. La venta de una casa costosa con pocas habitaciones difiere significativamente de una casa económica con múltiples habitaciones, lo que resalta la importancia de la especialización. A través de la creación de segmentos de casas basados en características clave como precio, tamaño, número de habitaciones y ubicación, se busca asignar a los agentes inmobiliarios a segmentos específicos que se alineen con sus habilidades y conocimientos, optimizando así sus esfuerzos de venta y potenciando su éxito en un mercado tan diverso y competitivo como el de Nueva York.
+
+    - [Fuente de datos](https://www.kaggle.com/datasets/hassaneskikri/online-retail-customer-churn-dataset/data)
+
+    Se debe realizar los siguientes puntos:
+
+    * Entendimiento de los datos ¿qué observa en los datos?.
+
+    * Detección de atípicos ¿Los datos tienen registros atípicos?
+
+    * Selección de variables ¿Qué variables son relevantes para solucionar el problema?
+
+    * Realice 4 métodos de clúster.
+
+    * Interprete los resultados. 
