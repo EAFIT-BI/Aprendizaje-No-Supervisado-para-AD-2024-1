@@ -77,4 +77,6 @@ Repositorio para el material del curso de aprendizaje no supervisado.
 
     * Interprete los resultados.
 
-    * Con que modelo se queda y ¿por qué? 
+    * Con que modelo se queda y ¿por qué?
+
+- [Clase 10](/Clase10/) El objetivo de esta clase es dar una introducción al procesamiento de lenguaje natural.  
